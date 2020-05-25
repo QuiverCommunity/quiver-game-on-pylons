@@ -66,6 +66,9 @@ Chess is
 https://github.com/jacobgarcia/werewolf-brain
 Ref. https://imgur.com/a/13ugp, https://en.wikipedia.org/wiki/Ultimate_Werewolf
 
+https://github.com/AlecM33/Werewolf
+An online, lobby-based multiplayer version of the social deception game Werewolf using Javascript and Websocket.
+
 https://github.com/webdevian/pandemic
 Ref. Javascript implementation of the board game Pandemic https://www.zmangames.com/en/games/pandemic/
 
@@ -97,6 +100,29 @@ A port of the classic "CheapAssGames" board game, Kill Doctor Lucky.
 https://github.com/Maxsior/iota
 board game IOTA
 
+https://github.com/ianmah/botc-online
+Online version of Blood on the Clocktower, https://bloodontheclocktower.com/buy
+
+https://github.com/nientedidecente/elime
+opensource clone of Earthcore: Shattered Elements https://elime.surge.sh/
+
+https://github.com/igravitystudios/matchimals.fun
+An animal matching puzzle card game, https://www.matchimals.fun/
+
+https://github.com/mavend/octoboard
+Collection of games that may help you and your friends kill the boredom of COVID19 quarantine
+
+https://github.com/ShrimpCryptid/Secret-Hitler-Online
+An online version of Secret Hitler, https://secret-hitler.online/
+
+https://github.com/Oracle-of-the-Void/ootv-client
+After Legend of the Five Rings was sold to Fantasy Flight at the end of 2015, Don Eisele (Author of the Oracle of the Void) has continued to fund and run the Oracle of the Void. He is currently working on revamping and coding the Oracle into a serverless cloud architecture on AWS. The new version will be faster, more resiliant (not running in Don's basement), and support other games., https://oracleofthevoid.com/
+
+https://github.com/MichiBeutler/poker
+Online Poker App
+
+https://github.com/ProPanek/PlanningPoker
+Planning Poker/Scrum Poker using node.js and socket.io! https://planning-poker-uk.herokuapp.com/
 
 # Game Packages
 https://github.com/MorelGames/morel-games-core
@@ -119,6 +145,8 @@ A Node.js module for handling GTP engines.
 https://github.com/SabakiHQ/Shudan
 The Shudan Goban is the Goban component that powers Sabaki (Baduk).
 
+https://github.com/nicolodavis/boardgame.io
+State Management for Turn-Based Games 
 
 # Game Dashboard
 https://github.com/szib/no-cambio-tonight
@@ -138,41 +166,6 @@ Qwirkle
 
 # Research for terminal games in Go/JS
 
-https://github.com/nikpundik/graceless-city
-https://github.com/ianmah/botc-online
-https://github.com/jrgfogh/checkers
-https://github.com/TheSmartMonkey/codenames
-https://github.com/Susurrus-LLC/aeons-end-randomizer
-https://github.com/nientedidecente/elime
-https://github.com/igravitystudios/matchimals.fun
-https://github.com/mavend/octoboard
-https://github.com/ShrimpCryptid/Secret-Hitler-Online
-https://github.com/Oracle-of-the-Void/ootv-client
-https://github.com/paperize/paperize
-https://github.com/AlecM33/Werewolf
-https://github.com/nasermirzaei89/tictactoe
-https://github.com/tannerkrewson/drawphone
-https://github.com/mykeels/tic-tac-toe
-https://github.com/LeonardoVal/ludorum.js/
-https://github.com/topics/boardgames
-https://github.com/nicolodavis/boardgame.io
-https://github.com/topics/board-games
-https://github.com/jasampler/game-board-js
-https://github.com/MichiBeutler/poker
-https://github.com/thekoushik/holdem-poker
-https://github.com/ShaunLWM/deuces.js
-https://github.com/samirelanduk/holdemJS
-https://github.com/gion/dixit-poker
-https://github.com/verveguy/slack-poker-bot
-https://github.com/John123Yu/TexasHoldem
-https://github.com/dcmox/moxy-poker
-https://github.com/ProPanek/PlanningPoker
-https://github.com/sigee/poker
-https://github.com/Airels/PokerHoldem
-https://github.com/sunguide/poker
-https://github.com/leonardofaria/poker-hand-showdown
-https://github.com/cheran-senthil/Jacks.js
-https://github.com/m1chael90nisio/pokerApp
 https://github.com/jorgedonoso/reactivepoker.com
 https://github.com/lropero/manolo
 https://github.com/Yaoir/VideoPoker-JavaScript
