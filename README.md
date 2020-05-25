@@ -43,6 +43,12 @@ Board games list, https://awesomeboard.games/
 
 # Golang terminal games
 # Javascript terminal games
+https://github.com/Yaoir/VideoPoker-JavaScript
+This is the JavaScript/Node.js version of videopoker.
+
+https://github.com/wardbradt/cloudpoker
+Node poker server using Redis, React, Webpack, Socket.io
+
 # Golang video games
 # Javascript video games
 # Javascript terminal game
@@ -124,6 +130,9 @@ Online Poker App
 https://github.com/ProPanek/PlanningPoker
 Planning Poker/Scrum Poker using node.js and socket.io! https://planning-poker-uk.herokuapp.com/
 
+https://github.com/jorgedonoso/reactivepoker.com
+A collection of card game resources for beginners
+
 # Game Packages
 https://github.com/MorelGames/morel-games-core
 Common front-end components and logics for all Morel browser minigames.
@@ -166,10 +175,6 @@ Qwirkle
 
 # Research for terminal games in Go/JS
 
-https://github.com/jorgedonoso/reactivepoker.com
-https://github.com/lropero/manolo
-https://github.com/Yaoir/VideoPoker-JavaScript
-https://github.com/wardbradt/cloudpoker
 https://github.com/ricardo-jsx/w95-poker
 https://github.com/mileshenrichs/poker-payout-calculator
 https://github.com/HeNHooKy/poker
