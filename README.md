@@ -25,6 +25,7 @@ Search for RPG games open-source and idea research
 Search ideas for Board games, open-source research is done
 Search for story games that can be done using delayed approach
 Search for game development resources / companies. e.g. https://github.com/seiyria/awesome-boardgame-development
+Search for turn-based strategy games
 
 # Excellent games
 https://github.com/benjaminkomen/stratego-frontend
@@ -44,6 +45,16 @@ Board games list, https://awesomeboard.games/
 # Javascript terminal games
 # Golang video games
 # Javascript video games
+# Javascript terminal game
+https://github.com/michelebucelli/node-taboo
+Taboo game wiki https://en.wikipedia.org/wiki/Taboo_(game)
+Usability: It's a word guessing game and if we build english word guessing game, this can be very interesting for learning english.
+
+# Javascript web and electron game
+https://github.com/chukwumaijem/ludo-game
+Ludo game. Built with Reactjs. Made to work on the browser and Electron! 
+
+
 # Javascript web game
 https://github.com/FaisalST32/minesweeper
 MineSweeper
@@ -58,10 +69,29 @@ Ref. https://imgur.com/a/13ugp, https://en.wikipedia.org/wiki/Ultimate_Werewolf
 https://github.com/webdevian/pandemic
 Ref. Javascript implementation of the board game Pandemic https://www.zmangames.com/en/games/pandemic/
 
+https://github.com/1j01/board-game
+Ref. http://1j01.github.io/board-game/
+Usability: Animation for the balls are smooth and it can be useful later time
+
+https://github.com/eranhirsch/scyther
+Usability: Game font looks interesting
+
+https://github.com/aprescott/tenuki
+baduk game
 
 # Game Packages
 https://github.com/MorelGames/morel-games-core
 Common front-end components and logics for all Morel browser minigames.
+
+https://github.com/LeonardoVal/ludorum.js
+A board game framework, focused not on graphics or user interfaces, but on artificial players design, implementation and testing.
+Sample board games built on ludorum.js
+https://github.com/LeonardoVal/ludorum-game-chess.js
+https://github.com/LeonardoVal/ludorum-game-colograph.js
+https://github.com/LeonardoVal/ludorum-game-connect4.js
+https://github.com/LeonardoVal/ludorum-gamepack.js
+https://github.com/LeonardoVal/ludorum-game-reversi.js
+https://github.com/LeonardoVal/ludorum-risky.js
 
 # Game Dashboard
 https://github.com/szib/no-cambio-tonight
@@ -69,28 +99,6 @@ A board games event organiser application.
 
 # Research for terminal games in Go/JS
 
-https://github.com/Naimul-Islam-Siam/Chipstar
-https://github.com/Naimul-Islam-Siam/Chipstar-App
-https://github.com/Oosterdijk/CatanHub
-https://github.com/michelebucelli/node-taboo
-https://github.com/1j01/board-game
-https://github.com/eranhirsch/scyther
-https://github.com/aprescott/tenuki
-https://github.com/chukwumaijem/ludo-game
-https://github.com/johannesfknudsen/ludo
-https://github.com/theblang/tkit
-https://github.com/ssilva/bgg-browser-extension
-https://github.com/MattLong87/winrate-client
-https://github.com/turnerhayes/quintro
-https://github.com/gagahpangeran/checkers-sc
-https://github.com/donkirkby/python-zendo
-https://github.com/Maels1991/Ataxx
-https://github.com/LeonardoVal/ludorum-game-chess.js
-https://github.com/LeonardoVal/ludorum-game-colograph.js
-https://github.com/LeonardoVal/ludorum-game-connect4.js
-https://github.com/LeonardoVal/ludorum-gamepack.js
-https://github.com/LeonardoVal/ludorum-game-reversi.js
-https://github.com/LeonardoVal/ludorum-risky.js
 https://github.com/themetalfleece/dobble-score
 https://github.com/fuhrmanator/melee-sim-js
 https://github.com/byn9826/Warring-States-Epic
