@@ -14,7 +14,6 @@ Said by Michael, for a Pylons game it has to happen in turns, 1 action per block
 # What is difference with Catvs.Dog ?
 
 - It's a blockchain game based on Pylons
-- 
 
 # How to play Cat vs. Dog on MacOS
 
