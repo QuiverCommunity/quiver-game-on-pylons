@@ -88,6 +88,16 @@ Board game, https://ronhasson.github.io/ParaduxGame/
 https://github.com/karlb/nuclearchess
 Nuclear Chess, http://www.karl.berlin/nuclearchess/#play
 
+https://github.com/yishn/p2p-goban
+Connect to peers and play/analyze on a shared Goban
+
+https://github.com/arevi/Kill-Doctor-Lucky-Web-Port
+A port of the classic "CheapAssGames" board game, Kill Doctor Lucky.
+
+https://github.com/Maxsior/iota
+board game IOTA
+
+
 # Game Packages
 https://github.com/MorelGames/morel-games-core
 Common front-end components and logics for all Morel browser minigames.
@@ -103,6 +113,13 @@ https://github.com/LeonardoVal/ludorum-game-reversi.js
 https://github.com/LeonardoVal/ludorum-risky.js
 https://github.com/LeonardoVal/ludorum-game-mancala.js
 
+https://github.com/SabakiHQ/gtp
+A Node.js module for handling GTP engines.
+
+https://github.com/SabakiHQ/Shudan
+The Shudan Goban is the Goban component that powers Sabaki (Baduk).
+
+
 # Game Dashboard
 https://github.com/szib/no-cambio-tonight
 A board games event organiser application.
@@ -110,42 +127,18 @@ A board games event organiser application.
 # Reference games that might be good to build from scratch
 https://github.com/fuhrmanator/melee-sim-js
 Check for game idea "The Fantasy Trip Melee"
+https://boardgamegeek.com/boardgame/143884/machi-koro
+Machi Koro is a fast-paced game for 2-4 players. Each player wants to develop the city on their own terms in order to complete all of the landmarks under construction faster than their rivals. On their turn, each player rolls one or two dice. If the sum of the dice rolled matches the number of a building that a player owns, they get the effect of that building; in some cases opponents will also benefit from your dice (just as you can benefit from theirs). Then, with money in hand a player can build a landmark or a new building, ideally adding to the wealth of their city on future turns. The first player to construct all of their landmarks wins!
+
+https://github.com/nornagon/hf-mission-planner
+High Frontier 4 All
+
+https://boardgamegeek.com/boardgame/25669/qwirkle
+Qwirkle
 
 # Research for terminal games in Go/JS
 
-https://github.com/SabakiHQ/crdt-gametree
-https://github.com/SabakiHQ/go-board
-https://github.com/mrpierrot/cardmaker
-https://github.com/jalbam/conectayas
-https://github.com/boompig/machi-koro
-https://github.com/justynasobczak/playboardgame
-https://github.com/Vaporjawn/Checkers
-https://github.com/albertwong25/ZeroPollution
-https://github.com/yewang/besogo
-https://github.com/SabakiHQ/boardmatcher
-https://github.com/SabakiHQ/gtp
-https://github.com/SabakiHQ/Shudan
-https://github.com/yishn/p2p-goban
-https://github.com/max-wittig/mastermind
-https://github.com/yishn/KataJigo
-https://github.com/SabakiHQ/sgf
-https://github.com/BlueDi/RootLogger
-https://github.com/SabakiHQ/immutable-gametree
-https://github.com/PJohannessen/four-in-a-row
-https://github.com/emilybram/bramagrams
-https://github.com/mattmarnien/unBoxed
-https://github.com/SamuelHiroyuki/coup-discord-bot
-https://github.com/nornagon/hf-mission-planner
-https://github.com/SabakiHQ/influence
-https://github.com/luigi1809/quirky
-https://github.com/marcel-valdez/power
-https://github.com/arevi/Kill-Doctor-Lucky-Web-Port
-https://github.com/lukechinworth/codenames
-https://github.com/ASuicidalCow/Pat-Knows-Best
-https://github.com/Maxsior/iota
-https://github.com/FaisalST32/tic-tac-toe
 https://github.com/nikpundik/graceless-city
-https://github.com/SabakiHQ/Sabaki
 https://github.com/ianmah/botc-online
 https://github.com/jrgfogh/checkers
 https://github.com/TheSmartMonkey/codenames
