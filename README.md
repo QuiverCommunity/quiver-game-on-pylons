@@ -20,49 +20,55 @@ Said by Michael, for a Pylons game it has to happen in turns, 1 action per block
 Download [Elmedia player](https://mac.eltima.com/media-player.html) and install on MacOS.
 Run the Elmedia player and drag and drop `catvsdog.swf`. That's all for how to run the game.
 
+# TODO research
+Search for RPG games open-source and idea research
+Search ideas for Board games, open-source research is done
+Search for story games that can be done using delayed approach
+Search for game development resources / companies. e.g. https://github.com/seiyria/awesome-boardgame-development
+
+# Excellent games
+https://github.com/benjaminkomen/stratego-frontend
+Sango3 like game, RPG game, http://www.stratego.com/
+Usability: I like this kind of game
+
+https://github.com/Saphareas/Andor-Custom-Cards-Builder
+“Legends of Andor” is a cooperative board game for 2–4 heroes, http://legendsofandor.com/
+Usability: This could be interesting
+
+https://github.com/edm00se/awesome-board-games
+Board games list, https://awesomeboard.games/
+
+
+
+# Golang terminal games
+# Javascript terminal games
+# Golang video games
+# Javascript video games
+# Javascript web game
+https://github.com/FaisalST32/minesweeper
+MineSweeper
+Usability: Can do multiplayer minesweeper or do it alone by giving time when click mouse or something
+
+https://github.com/Eyap53/PlayThemAll
+Chess is 
+
+https://github.com/jacobgarcia/werewolf-brain
+Ref. https://imgur.com/a/13ugp, https://en.wikipedia.org/wiki/Ultimate_Werewolf
+
+https://github.com/webdevian/pandemic
+Ref. Javascript implementation of the board game Pandemic https://www.zmangames.com/en/games/pandemic/
+
+
+# Game Packages
+https://github.com/MorelGames/morel-games-core
+Common front-end components and logics for all Morel browser minigames.
+
+# Game Dashboard
+https://github.com/szib/no-cambio-tonight
+A board games event organiser application.
+
 # Research for terminal games in Go/JS
 
-https://github.com/QAB-LABS/QAB-HUB
-https://github.com/RobinJPowell/DecryptoBot
-https://github.com/FaisalST32/minesweeper
-https://github.com/benjaminkomen/stratego-frontend
-https://github.com/CodeforChemnitz/chemnitzgeek-react
-https://github.com/Mirv/basicb
-https://github.com/MorelGames/morel-games-core
-https://github.com/gpavanb1/Dice-Checker
-https://github.com/akrueger/next-game
-https://github.com/Machine-Learning-Labs/boardGameAdviser
-https://github.com/Saphareas/Andor-Custom-Cards-Builder
-https://github.com/Venerons/bgt
-https://github.com/SeanMcP/dice-roller
-https://github.com/RuPaulsDataRace/Kingdomino-For-Queens
-https://github.com/koosvary/codenames
-https://github.com/Jedisjeux/Jedisjeux
-https://github.com/n-apps/ScoreCounter
-https://github.com/seiyria/awesome-boardgame-development
-https://github.com/pgeerkens/HexGridUtilitiesForGames
-https://github.com/edm00se/awesome-board-games
-https://github.com/ksokhan/gloom-events
-https://github.com/Eyap53/PlayThemAll
-https://github.com/szib/no-cambio-tonight
-https://github.com/ftick/night-phase
-https://github.com/naxhh/tenXtenTrackerApp
-https://github.com/kckaiwei/gobgg
-https://github.com/Loutrinos/BoardGameApp
-https://github.com/GorlifSense/SevenWondersScore
-https://github.com/duponter/Collections-Explorer
-https://github.com/imjoshellis/bg-quickstart
-https://github.com/Porges/ways-to-play
-https://github.com/christiancodes/bloodstones
-https://github.com/MatthewWid/Twitch2048
-https://github.com/davebenvenuti/cubalibre
-https://github.com/yurikoex/knaves-out
-https://github.com/lwiecek/boardgames
-https://github.com/saulroc/El-Mapa
-https://github.com/msaari/18sh-display
-https://github.com/msaari/18sh
-https://github.com/jacobgarcia/werewolf-brain
-https://github.com/webdevian/pandemic
 https://github.com/Naimul-Islam-Siam/Chipstar
 https://github.com/Naimul-Islam-Siam/Chipstar-App
 https://github.com/Oosterdijk/CatanHub
