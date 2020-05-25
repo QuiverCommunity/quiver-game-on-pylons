@@ -27,6 +27,7 @@ Search for story games that can be done using delayed approach
 Search for game development resources / companies. e.g. https://github.com/seiyria/awesome-boardgame-development
 Search for turn-based strategy games
 Search for great game winner dashboard, users will like to see the best players listing
+Search for turn based survival games
 
 # Excellent games
 https://github.com/benjaminkomen/stratego-frontend
@@ -43,8 +44,20 @@ Board games list, https://awesomeboard.games/
 https://github.com/acebusters/acebusters-frontend
 Web client for blockchain poker https://dapp.acebusters.com
 
+# Rust video game
+
+https://github.com/ozkriff/zoc
+⬡ Zone of Control is a hexagonal turn-based strategy game written in Rust. [DISCONTINUED] https://ozkriff.itch.io/zoc
+
+https://github.com/ozkriff/zemeroth
+😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust https://ozkriff.itch.io/zemeroth
 
 # Golang terminal games
+
+# Lua terminal game
+
+https://github.com/rm-code/On-The-Roadside
+A turn-based ASCII strategy game. https://rmcode.itch.io/on-the-roadside
 
 # Javascript terminal games
 https://github.com/Yaoir/VideoPoker-JavaScript
@@ -53,10 +66,16 @@ This is the JavaScript/Node.js version of videopoker.
 https://github.com/wardbradt/cloudpoker
 Node poker server using Redis, React, Webpack, Socket.io
 
+https://github.com/walsh9/7drl2015
+Chitinous Crooks - Retrieve the Jewel of Zot from the lobsterfolk. http://walsh9.github.io/7drl2015
+
 # Golang video games
 
 https://github.com/ginuerzh/poker
 Texas Hold’em poker game h5+golang
+
+https://github.com/campoy/flappy-gopher
+The code for the Flappy Gopher episodes of #justforfunc http://youtube.com/c/justforfunc
 
 # Golang web game
 https://github.com/azartpay/poker-10
@@ -166,6 +185,36 @@ https://github.com/floatinghotpot/casino-server
 https://github.com/RobertoDebarba/rise-of-shinigami
 A 2D turn based RPG game made with RPG Maker MV platform
 
+https://github.com/PetrHeinz/gods-play
+PixiGame: God's Play is a multiplayer turn-based tactical game about mages trying to destroy each other. As they fight they spread havoc and destruction around themselves without considering consequences.
+
+https://github.com/wyattdorn/flesh-n-bones
+Turn-Based RPG - JavaScript
+
+https://github.com/Greenheart/iso-conquest
+A minimalistic, turn based strategy game with PvP and experimental AI
+
+https://github.com/hervan/anaander
+a turn-based strategy board game where all your units belong to a hive mind https://hervan.github.io/anaander/
+
+https://github.com/sunDalik/Playable
+This is literally playable https://sundalik.github.io/Playable/
+
+https://github.com/fatcerberus/spectacles-i
+The first installment of the Spectacles Saga, which follows Scott Starcross in his quest through Lucida as he attempts to defeat the Primus. Uses the Sphere engine!
+
+https://github.com/sviridoff/tactical-rpg
+An attempt to make `Fire Emblem Heroes` clone in Javascript https://sviridoff.github.io/tactical-rpg
+
+https://github.com/tautvilas/epoh
+Multiplayer turn-based browser strategy game http://www.epoh.io
+
+https://github.com/rootasjey/cycles
+A turn-based game system built with phaser
+
+https://github.com/colyseus/colyseus
+⚔ Multiplayer Game Server for Node.js https://colyseus.io
+
 # Game Packages
 https://github.com/MorelGames/morel-games-core
 Common front-end components and logics for all Morel browser minigames.
@@ -188,10 +237,17 @@ https://github.com/SabakiHQ/Shudan
 The Shudan Goban is the Goban component that powers Sabaki (Baduk).
 
 https://github.com/nicolodavis/boardgame.io
+https://github.com/turn-based/boardgame.io-angular
 State Management for Turn-Based Games 
 
 https://github.com/strawmanbobi/texas-poker-engine
 Texas Poker Engine is an open source project which helps you to host a Texas Poker/Holdem game or competition.
+
+https://github.com/pdrum/roomer
+Roomer is a framework for writing two-player, turn-based game servers in golang.
+
+https://github.com/Trisfald/weasel
+Rust game, Weasel Turn Battle System
 
 # Game Dashboard
 https://github.com/szib/no-cambio-tonight
@@ -211,49 +267,6 @@ Qwirkle
 
 # Research for terminal games in Go/JS
 
-https://github.com/PetrHeinz/gods-play
-https://github.com/dibakarsutradhar/DOM-Pig-Game
-https://github.com/pvestal/turnbased
-https://github.com/alex2wong/boardgame.io
-https://github.com/wyattdorn/flesh-n-bones
-https://github.com/petetetete/cs413-project1
-https://github.com/Berkays/Quixo
-https://github.com/Greenheart/iso-conquest
-https://github.com/Taldrain/Turn-Based-Accounting
-https://github.com/vikkio88/revorbaro
-https://github.com/codyebberson/taktyka
-https://github.com/jerome9189/dragon-slayer
-https://github.com/pdrum/roomer
-https://github.com/hervan/anaander
-https://github.com/healingbrew/ctb
-https://github.com/deadlyfingers/ARStudioGame
-https://github.com/sunDalik/Playable
-https://github.com/fatcerberus/spectacles-i
-https://github.com/walsh9/7drl2015
-https://github.com/sviridoff/tactical-rpg
-https://github.com/lchsk/knight-general
-https://github.com/JohnAD/turn_based_game
-https://github.com/tautvilas/epoh
-https://github.com/frame-js/Frame
-https://github.com/devapromix-roguelikes/troll-hunter
-https://github.com/rm-code/On-The-Roadside
-https://github.com/Robosturm/Commander_Wars
-https://github.com/rootasjey/cycles
-https://github.com/unix1/nuk
-https://github.com/WorldGrower/WorldGrower
-https://github.com/Trilarion/imperialism-remake
-https://github.com/tuomount/Open-Realms-of-Stars
-https://github.com/Trisfald/weasel
-https://github.com/turn-based/boardgame.io-angular
-https://github.com/Bozar/GodotRoguelikeTutorial
-https://github.com/Torrunt/OpenAW3D
-https://github.com/incomingstick/OpenRPG
-https://github.com/TalonBraveInfo/OpenHoW
-https://github.com/ozkriff/zoc
-https://github.com/GDQuest/godot-open-rpg
-https://github.com/ozkriff/zemeroth
-https://github.com/colyseus/colyseus
-https://github.com/campoy/flappy-gopher
 https://github.com/maxproske/games-with-go
 https://github.com/fraenky8/go-snake
 https://github.com/kaishuu0123/go-game-of-life-sdl2
