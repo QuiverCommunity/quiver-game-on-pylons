@@ -54,6 +54,99 @@ https://github.com/ozkriff/zemeroth
 
 # Golang terminal games
 
+https://github.com/kaishuu0123/go-game-of-life-sdl2
+Conway's Game of Life written in Go & SDL2
+
+https://github.com/topheman/gopher-ball
+Video game made in golang, based on sdl2 bindings
+
+https://github.com/demonshreder/sdl2-games
+A repository containing games I have made using SDL2 go bindings
+
+https://github.com/fiorix/cat-o-licious
+Cat game written in Go
+
+https://github.com/photogabble/go-space-mines
+Command Line Space Mines Simulator Game ported from BASIC to Go
+
+https://github.com/JoelOtter/termloop
+Terminal-based game engine for Go, built on top of Termbox
+
+https://github.com/Freid001/go-play
+A series of simple cli games.
+
+https://github.com/tristangoossens/snake-go
+Snake game made in Go! 🐍 https://tristangoossens.itch.io/snake-go
+
+https://github.com/DyegoCosta/snake-game
+Terminal-based Snake game
+
+https://github.com/zladovan/gorched
+Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
+
+https://github.com/tristangoossens/sokoban-go
+Sokoban made in Go! 📦
+
+https://github.com/y-hatano-github/go-puyo
+Go-Puyo is terminal based 'Puyo Puyo' similar game written in golang.
+
+https://github.com/austinov/gopher-game
+gopher-game is a simple game in a terminal.
+
+https://github.com/LinMAD/gobattle
+Sea battle terminal game
+
+https://github.com/benrhyshoward/termtron
+1 - 4 player terminal game based on BMTron
+
+https://github.com/ShawnROGrady/gotris
+A terminal based version of the 1984 game written in Go
+
+https://github.com/kathleenfrench/datboigo
+terminal game built in go 🐸
+
+https://github.com/tatarhy/gotetris
+Tetris written in Go
+
+https://github.com/nailo2c/2048-go
+Use termbox-go to implement 2048 game
+
+https://github.com/Yaoir/VideoPoker-Go
+A text-based video poker game - Go (Golang) version
+
+https://github.com/jmorgan1321/golang-games
+Just a place for me to mess around with some game ideas (using go and javascript).
+
+https://github.com/ibrdrahim/goRemi
+prototype for playing card game writen in golang
+
+https://github.com/faiface/gogame
+A simple and useful game library in Go.
+
+https://github.com/miladrahimi/go-street
+A Very Simple CLI Game Written in Go
+
+https://github.com/sore0159/overpower
+Golang Multiplayer Simultaneous-Action Turnbased Galaxy Game
+
+https://github.com/AppsComTr/Spaceship
+Multiplayer game backend framework which is written with Golang
+
+https://github.com/marmelab/awale-go
+Turn based awale game for command-line, written in #golang
+
+https://github.com/marmelab/reversi-go
+Turn based reversi game for command-line in Golang
+
+https://github.com/heroiclabs/nakama
+Distributed server for social and realtime games and apps. https://heroiclabs.com
+
+https://github.com/zkry/golang-tetris
+A Tetris game written in Go using the faiface/pixel 2D game engine.
+
+https://github.com/Terkwood/BUGOUT
+AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
+
 # Lua terminal game
 
 https://github.com/rm-code/On-The-Roadside
@@ -75,7 +168,13 @@ https://github.com/ginuerzh/poker
 Texas Hold’em poker game h5+golang
 
 https://github.com/campoy/flappy-gopher
-The code for the Flappy Gopher episodes of #justforfunc http://youtube.com/c/justforfunc
+The code for the Flappy Gopher episodes of #justforfunc http://youtube.com/c/
+
+https://github.com/maxproske/games-with-go
+A collection of small game-related projects built using Go and SDL2
+
+https://github.com/fraenky8/go-snake
+The Snake Game written in Go & SDL2
 
 # Golang web game
 https://github.com/azartpay/poker-10
@@ -215,6 +314,18 @@ A turn-based game system built with phaser
 https://github.com/colyseus/colyseus
 ⚔ Multiplayer Game Server for Node.js https://colyseus.io
 
+https://github.com/jaxankey/Virtual-Game-Table
+A general-purpose, browser-based game table for casual games and rapid board game development.
+
+https://github.com/yahiaetman/Go-Server
+Go Server is a 2-Player Websockets Go Judging Server.
+
+https://github.com/bast/go-game
+Go game for the browser. https://bast.github.io/go-game/
+
+https://github.com/kelleyvanevert/jsgo
+Go on a torus, why not? :) http://kelleyvanevert.github.io/jsgo/
+
 # Game Packages
 https://github.com/MorelGames/morel-games-core
 Common front-end components and logics for all Morel browser minigames.
@@ -264,62 +375,3 @@ High Frontier 4 All
 
 https://boardgamegeek.com/boardgame/25669/qwirkle
 Qwirkle
-
-# Research for terminal games in Go/JS
-
-https://github.com/maxproske/games-with-go
-https://github.com/fraenky8/go-snake
-https://github.com/kaishuu0123/go-game-of-life-sdl2
-https://github.com/topheman/gopher-ball
-https://github.com/demonshreder/sdl2-games
-https://github.com/fiorix/cat-o-licious
-https://github.com/photogabble/go-space-mines
-https://github.com/JoelOtter/termloop
-https://github.com/helloRupa/tic-tac-toe
-https://github.com/Freid001/go-play
-https://github.com/pdronenko/brain-games
-https://github.com/tristangoossens/snake-go
-https://github.com/DyegoCosta/snake-game
-https://github.com/zladovan/gorched
-https://github.com/adrienball/2048-rs
-https://github.com/tristangoossens/sokoban-go
-https://github.com/primeare/snake-game
-https://github.com/mnito/charmine
-https://github.com/kalininskiy/js-tetris-cli
-https://github.com/ilmanzo/termsnake
-https://github.com/y-hatano-github/go-puyo
-https://github.com/austinov/gopher-game
-https://github.com/LinMAD/gobattle
-https://github.com/sagarnikam123/ankGanit
-https://github.com/hueich/blokus-cli
-https://github.com/benrhyshoward/termtron
-https://github.com/ShawnROGrady/gotris
-https://github.com/kathleenfrench/datboigo
-https://github.com/tatarhy/gotetris
-https://github.com/y-hatano-github/4-in-a-row-go
-https://github.com/nailo2c/2048-go
-https://github.com/theothertomelliott/cli-pong
-https://github.com/8ctopotamus/rock-paper-scissors-go
-https://github.com/leominov/go-card-game
-https://github.com/Yaoir/VideoPoker-Go
-https://github.com/jmorgan1321/golang-games
-https://github.com/ibrdrahim/goRemi
-https://github.com/faiface/gogame
-https://github.com/miladrahimi/go-street
-https://github.com/sore0159/overpower
-https://github.com/AppsComTr/Spaceship
-https://github.com/marmelab/awale-go
-https://github.com/jordan9001/rush_n_crush
-https://github.com/marmelab/reversi-go
-https://github.com/heroiclabs/nakama
-https://github.com/acristescu/OnlineGo
-https://github.com/zkry/golang-tetris
-https://github.com/Terkwood/BUGOUT
-https://github.com/jaxankey/Virtual-Game-Table
-https://github.com/yahiaetman/Go-Server
-https://github.com/bast/go-game
-https://github.com/kelleyvanevert/jsgo
-https://github.com/BadDuke/Go-Baduk-Study-Materials
-https://github.com/HappyTramp/goingo
-https://github.com/SocketWeaver/GoFish
-https://github.com/topics/turn-based-combat
