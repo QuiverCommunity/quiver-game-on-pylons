@@ -26,6 +26,7 @@ Search ideas for Board games, open-source research is done
 Search for story games that can be done using delayed approach
 Search for game development resources / companies. e.g. https://github.com/seiyria/awesome-boardgame-development
 Search for turn-based strategy games
+Search for great game winner dashboard, users will like to see the best players listing
 
 # Excellent games
 https://github.com/benjaminkomen/stratego-frontend
@@ -39,9 +40,12 @@ Usability: This could be interesting
 https://github.com/edm00se/awesome-board-games
 Board games list, https://awesomeboard.games/
 
+https://github.com/acebusters/acebusters-frontend
+Web client for blockchain poker https://dapp.acebusters.com
 
 
 # Golang terminal games
+
 # Javascript terminal games
 https://github.com/Yaoir/VideoPoker-JavaScript
 This is the JavaScript/Node.js version of videopoker.
@@ -50,6 +54,18 @@ https://github.com/wardbradt/cloudpoker
 Node poker server using Redis, React, Webpack, Socket.io
 
 # Golang video games
+
+https://github.com/ginuerzh/poker
+Texas Hold’em poker game h5+golang
+
+# Golang web game
+https://github.com/azartpay/poker-10
+Texas Hold’em poker game h5+golang
+
+# Golang library
+Poker library written in go (golang)
+
+
 # Javascript video games
 # Javascript terminal game
 https://github.com/michelebucelli/node-taboo
@@ -60,6 +76,8 @@ Usability: It's a word guessing game and if we build english word guessing game,
 https://github.com/chukwumaijem/ludo-game
 Ludo game. Built with Reactjs. Made to work on the browser and Electron! 
 
+https://github.com/monicanagent/cypherpoker.js
+CypherPoker.JS is a complete, white label, peer-to-peer poker platform that incorporates a flexible and highly customizable web / desktop game client, powerful P2P communication capabilities, account management system with database integration and extensible API services, automated cryptocurrency and wallet functionality, and much more.
 
 # Javascript web game
 https://github.com/FaisalST32/minesweeper
@@ -128,10 +146,25 @@ https://github.com/MichiBeutler/poker
 Online Poker App
 
 https://github.com/ProPanek/PlanningPoker
+https://github.com/chrisandrews7/planning-poker.server
+https://github.com/chrisandrews7/planning-poker.ui
 Planning Poker/Scrum Poker using node.js and socket.io! https://planning-poker-uk.herokuapp.com/
 
 https://github.com/jorgedonoso/reactivepoker.com
 A collection of card game resources for beginners
+
+https://github.com/unitehenry/poker.tech
+Interactive Tabletop Poker
+
+https://github.com/SFSU-CSC-667/term-project-poker
+Online Poker - Texas Hold'em https://poker-games.herokuapp.com/
+
+
+https://github.com/floatinghotpot/casino-server
+🔥 An online poker game server powered by Redis, node.js and socket.io
+
+https://github.com/RobertoDebarba/rise-of-shinigami
+A 2D turn based RPG game made with RPG Maker MV platform
 
 # Game Packages
 https://github.com/MorelGames/morel-games-core
@@ -157,6 +190,9 @@ The Shudan Goban is the Goban component that powers Sabaki (Baduk).
 https://github.com/nicolodavis/boardgame.io
 State Management for Turn-Based Games 
 
+https://github.com/strawmanbobi/texas-poker-engine
+Texas Poker Engine is an open source project which helps you to host a Texas Poker/Holdem game or competition.
+
 # Game Dashboard
 https://github.com/szib/no-cambio-tonight
 A board games event organiser application.
@@ -175,45 +211,6 @@ Qwirkle
 
 # Research for terminal games in Go/JS
 
-https://github.com/ricardo-jsx/w95-poker
-https://github.com/mileshenrichs/poker-payout-calculator
-https://github.com/HeNHooKy/poker
-https://github.com/O-OF-N/poker
-https://github.com/unitehenry/poker.tech
-https://github.com/DIO0550/DPokerLib
-https://github.com/bsclifton/poker.js
-https://github.com/congwenma/poker-cards
-https://github.com/wa292178/shuffle-master
-https://github.com/Maydit/royal-flush
-https://github.com/IAARhub/Probabilidades-Generala-y-Poker
-https://github.com/dolegi/poker-react
-https://github.com/bcaccinolo/react-poker-range
-https://github.com/chrisandrews7/planning-poker.server
-https://github.com/SFSU-CSC-667/term-project-poker
-https://github.com/wolfika/vue-playing-card
-https://github.com/galqawala/rubiksmomoGnomePokerHUD
-https://github.com/listingslab/react-playing-cards
-https://github.com/rootslab/geco
-https://github.com/Henry37/agile-poker
-https://github.com/chrisandrews7/planning-poker.ui
-https://github.com/wolfika/playing-card-signature
-https://github.com/stezu/poker-clock
-https://github.com/srcnalt/pick-a-card
-https://github.com/Nepal-Blockchain/crypto-teen-patti
-https://github.com/41semicolon/41poker
-https://github.com/pokerwars/pokerwars.io-starterbot-javascript
-https://github.com/Z8264/poker-calculator
-https://github.com/acebusters/acebusters-frontend
-https://github.com/kripod/mental-poker
-https://github.com/monicanagent/cypherpoker.js
-https://github.com/strawmanbobi/texas-poker-engine
-https://github.com/CookPete/poker-odds
-https://github.com/floatinghotpot/casino-server
-https://github.com/azartpay/poker-10
-https://github.com/notnil/joker
-https://github.com/chehsunliu/poker
-https://github.com/ginuerzh/poker
-https://github.com/RobertoDebarba/rise-of-shinigami
 https://github.com/PetrHeinz/gods-play
 https://github.com/dibakarsutradhar/DOM-Pig-Game
 https://github.com/pvestal/turnbased
