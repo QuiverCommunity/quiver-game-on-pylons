@@ -79,6 +79,15 @@ Usability: Game font looks interesting
 https://github.com/aprescott/tenuki
 baduk game
 
+https://github.com/byn9826/Warring-States-Epic
+Chinese history game, 战国史话
+
+https://ronhasson.github.io/ParaduxGame/
+Board game, https://ronhasson.github.io/ParaduxGame/
+
+https://github.com/karlb/nuclearchess
+Nuclear Chess, http://www.karl.berlin/nuclearchess/#play
+
 # Game Packages
 https://github.com/MorelGames/morel-games-core
 Common front-end components and logics for all Morel browser minigames.
@@ -92,23 +101,18 @@ https://github.com/LeonardoVal/ludorum-game-connect4.js
 https://github.com/LeonardoVal/ludorum-gamepack.js
 https://github.com/LeonardoVal/ludorum-game-reversi.js
 https://github.com/LeonardoVal/ludorum-risky.js
+https://github.com/LeonardoVal/ludorum-game-mancala.js
 
 # Game Dashboard
 https://github.com/szib/no-cambio-tonight
 A board games event organiser application.
 
+# Reference games that might be good to build from scratch
+https://github.com/fuhrmanator/melee-sim-js
+Check for game idea "The Fantasy Trip Melee"
+
 # Research for terminal games in Go/JS
 
-https://github.com/themetalfleece/dobble-score
-https://github.com/fuhrmanator/melee-sim-js
-https://github.com/byn9826/Warring-States-Epic
-https://github.com/ronhasson/ParaduxGame
-https://github.com/afmika/afShogi
-https://github.com/karlb/nuclearchess
-https://github.com/LeonardoVal/ludorum-game-mancala.js
-https://github.com/milogert/frostgrave-spells
-https://github.com/ayaqdop/frontend
-https://github.com/Naimul-Islam-Siam/Lights-Out
 https://github.com/SabakiHQ/crdt-gametree
 https://github.com/SabakiHQ/go-board
 https://github.com/mrpierrot/cardmaker
