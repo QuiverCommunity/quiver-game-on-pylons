@@ -375,3 +375,9 @@ High Frontier 4 All
 
 https://boardgamegeek.com/boardgame/25669/qwirkle
 Qwirkle
+
+A game like Reigns might be cool said by Michael,
+https://play.google.com/store/apps/details?id=com.devolver.reigns
+
+Said by Reuven Podmazo
+https://www.westeros.org/
