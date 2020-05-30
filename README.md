@@ -15,134 +15,101 @@ Said by Michael, for a Pylons game it has to happen in turns, 1 action per block
 
 - It's a blockchain game based on Pylons
 
-# How to play Cat vs. Dog on MacOS
+# Games to build 
+1. Build Warmax like game for easiest game prototype
+http://wormax.io
+It's a game that is derivated from a game called "slither".
+Open sources to consider
+https://github.com/iiegor/slither
+https://github.com/crytic/slither
+https://github.com/whxaxes/slither
+https://github.com/Loonride/slither.io-clone
+https://github.com/maxmx/slither
+https://github.com/PlitherProject/Plither
+https://github.com/dahquan/rattlesnake
+
+Items and the users' score will be stored in Pylons system.
+I will run socket.io server that connect users globally.
+
+2. Build Cat vs Dog like game for another easier game
+It's classic game, but there can be users who like to play.
+Players can purchase Cat and Dogs and other great items.
+And multiple players can do match online with their character.
+
+*How to play Cat vs. Dog swf on MacOS*
 
 Download [Elmedia player](https://mac.eltima.com/media-player.html) and install on MacOS.
 Run the Elmedia player and drag and drop `catvsdog.swf`. That's all for how to run the game.
 
-# TODO research
-Search for RPG games open-source and idea research
-Search ideas for Board games, open-source research is done
-Search for story games that can be done using delayed approach
-Search for game development resources / companies. e.g. https://github.com/seiyria/awesome-boardgame-development
-Search for turn-based strategy games
-Search for great game winner dashboard, users will like to see the best players listing
-Search for turn based survival games
-
-# Excellent games
+3. Build a first web based multi-player board game which is similar to stratego
+http://www.stratego.com/
+It's a game that is similar to what I have been playing when young on paper. (Elephant, Lion, Tiger, Rat etc.)
+Open source to consider
 https://github.com/benjaminkomen/stratego-frontend
-Sango3 like game, RPG game, http://www.stratego.com/
-Usability: I like this kind of game
 
+Is it possible to implement this on Pylons system? Michael said it's not easy, consider doing it later when they support multiple players feature.
+
+4. Build a "Legends of Andor" like game
+http://legendsofandor.com/
+“Legends of Andor” is a cooperative board game for 2–4 heroes.
+The idea is defeating the Andor region.
+
+Open source to consider
 https://github.com/Saphareas/Andor-Custom-Cards-Builder
-“Legends of Andor” is a cooperative board game for 2–4 heroes, http://legendsofandor.com/
-Usability: This could be interesting
 
-https://github.com/edm00se/awesome-board-games
-Board games list, https://awesomeboard.games/
+5. Build a casino game 
 
-https://github.com/acebusters/acebusters-frontend
-Web client for blockchain poker https://dapp.acebusters.com
+Open source to consider
+Web client for blockchain poker: https://github.com/acebusters/acebusters-frontend
+
+https://github.com/Yaoir/VideoPoker-Go
+A text-based video poker game - Go (Golang) version
+Verified: Text based poker will be easy to make
+
+6. Build a Galaxy Game
+
+https://planets.nu
+Galaxy Game where gamers can attack other planets etc.
 
 # Rust video game
 
 https://github.com/ozkriff/zoc
 ⬡ Zone of Control is a hexagonal turn-based strategy game written in Rust. [DISCONTINUED] https://ozkriff.itch.io/zoc
 
+Verified. It's a kind of desktop turn-based board game written in rust. Reduce the health of tanks and soliders on every turn.
+
 https://github.com/ozkriff/zemeroth
 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust https://ozkriff.itch.io/zemeroth
 
-# Golang terminal games
+Verified. It's a similar game to zoc (Zone of Control) game with different kind of monsters.
 
-https://github.com/kaishuu0123/go-game-of-life-sdl2
-Conway's Game of Life written in Go & SDL2
+# Golang terminal games
 
 https://github.com/topheman/gopher-ball
 Video game made in golang, based on sdl2 bindings
-
-https://github.com/demonshreder/sdl2-games
-A repository containing games I have made using SDL2 go bindings
+Verified: Good use of sdl2 library but not useful for blockchain turn based game.
 
 https://github.com/fiorix/cat-o-licious
 Cat game written in Go
-
-https://github.com/photogabble/go-space-mines
-Command Line Space Mines Simulator Game ported from BASIC to Go
-
-https://github.com/JoelOtter/termloop
-Terminal-based game engine for Go, built on top of Termbox
-
-https://github.com/Freid001/go-play
-A series of simple cli games.
+Verified: Good use of sdl2 library but not useful for blockchain turn based game.
 
 https://github.com/tristangoossens/snake-go
 Snake game made in Go! 🐍 https://tristangoossens.itch.io/snake-go
-
-https://github.com/DyegoCosta/snake-game
-Terminal-based Snake game
+Verified: Good use of sdl2 library but not useful for blockchain turn based game.
 
 https://github.com/zladovan/gorched
 Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
-
-https://github.com/tristangoossens/sokoban-go
-Sokoban made in Go! 📦
-
-https://github.com/y-hatano-github/go-puyo
-Go-Puyo is terminal based 'Puyo Puyo' similar game written in golang.
+Verified: Good terminal fill color library but not useful for blockchain turn based game.
 
 https://github.com/austinov/gopher-game
 gopher-game is a simple game in a terminal.
-
-https://github.com/LinMAD/gobattle
-Sea battle terminal game
-
-https://github.com/benrhyshoward/termtron
-1 - 4 player terminal game based on BMTron
-
-https://github.com/ShawnROGrady/gotris
-A terminal based version of the 1984 game written in Go
-
-https://github.com/kathleenfrench/datboigo
-terminal game built in go 🐸
-
-https://github.com/tatarhy/gotetris
-Tetris written in Go
-
-https://github.com/nailo2c/2048-go
-Use termbox-go to implement 2048 game
-
-https://github.com/Yaoir/VideoPoker-Go
-A text-based video poker game - Go (Golang) version
-
-https://github.com/jmorgan1321/golang-games
-Just a place for me to mess around with some game ideas (using go and javascript).
-
-https://github.com/ibrdrahim/goRemi
-prototype for playing card game writen in golang
-
-https://github.com/faiface/gogame
-A simple and useful game library in Go.
-
-https://github.com/miladrahimi/go-street
-A Very Simple CLI Game Written in Go
-
-https://github.com/sore0159/overpower
-Golang Multiplayer Simultaneous-Action Turnbased Galaxy Game
+Verified: simiar to "Salt stealing game", I was doing when I was young but not blockchainy.
 
 https://github.com/AppsComTr/Spaceship
 Multiplayer game backend framework which is written with Golang
 
-https://github.com/marmelab/awale-go
-Turn based awale game for command-line, written in #golang
-
-https://github.com/marmelab/reversi-go
-Turn based reversi game for command-line in Golang
-
 https://github.com/heroiclabs/nakama
 Distributed server for social and realtime games and apps. https://heroiclabs.com
-
-https://github.com/zkry/golang-tetris
-A Tetris game written in Go using the faiface/pixel 2D game engine.
 
 https://github.com/Terkwood/BUGOUT
 AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
@@ -360,6 +327,9 @@ Roomer is a framework for writing two-player, turn-based game servers in golang.
 https://github.com/Trisfald/weasel
 Rust game, Weasel Turn Battle System
 
+https://github.com/JoelOtter/termloop
+Terminal-based game engine for Go, built on top of Termbox
+
 # Game Dashboard
 https://github.com/szib/no-cambio-tonight
 A board games event organiser application.
@@ -381,3 +351,13 @@ https://play.google.com/store/apps/details?id=com.devolver.reigns
 
 Said by Reuven Podmazo
 https://www.westeros.org/
+
+
+# TODO research
+Search for RPG games open-source and idea research
+Search ideas for Board games, open-source research is done
+Search for story games that can be done using delayed approach
+Search for game development resources / companies. e.g. https://github.com/seiyria/awesome-boardgame-development
+Search for turn-based strategy games
+Search for great game winner dashboard, users will like to see the best players listing
+Search for turn based survival games
