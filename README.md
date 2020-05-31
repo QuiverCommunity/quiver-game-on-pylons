@@ -6,14 +6,56 @@ This game is built by Quiver community to support Pylons community.
 
 We will build terminal game with great idea by forking LOUD game.
 
-# Game spec
+# Research for blockchainy game industry
+https://www.quora.com/Why-do-people-love-Pokemon
+Already existing games list can be found here
+https://egamers.io/blockchain-games-list/
 
-Community is going to build cat vs. dog game on Pylons.
-Said by Michael, for a Pylons game it has to happen in turns, 1 action per block and cat and dog is something similar.
+Here's alpha version of space fighting game that is similar to what I have described at the top.
+https://www.csc-game.com/
+There are top 4 great potential blockchain games
+https://hackernoon.com/5-blockchain-games-that-you-need-to-know-about-lbu36gt
+Most Anticipated Blockchain Games for 2020
+https://www.blockchaingamer.biz/features/3283/most-anticipated-blockchain-games/
+13 of the Best Blockchain Games (Updated for 2019)
+https://blockexplorer.com/news/best-blockchain-games/
+What Happened to Blockchain Gaming?
+https://www.gamedesigning.org/gaming/blockchain/
+I like classic style games like dog and cat 2d game, but these games are visually too crazy.
+Checkout a blockchain game company
+https://mythical.games/
+Most of the game channels have discord and it's possible to track game status and users' feedback there
+Blockchain game ideas on Reddit
+https://www.reddit.com/r/gamedesign/comments/4u1i0f/looking_for_ideas_for_a_blockchainbased_game/
 
-# What is difference with Catvs.Dog ?
+# Reference games that might be good to build from scratch (It's not blockchain, it would be better to get idea from existing blockchainy games)
+https://github.com/fuhrmanator/melee-sim-js
+Check for game idea "The Fantasy Trip Melee"
+Verified: This is game where 3 characters participate in game and players can do fight, move, escape etc. Winners get bonus points.
 
-- It's a blockchain game based on Pylons
+https://boardgamegeek.com/boardgame/143884/machi-koro
+Machi Koro is a fast-paced game for 2-4 players. Each player wants to develop the city on their own terms in order to complete all of the landmarks under construction faster than their rivals. On their turn, each player rolls one or two dice. If the sum of the dice rolled matches the number of a building that a player owns, they get the effect of that building; in some cases opponents will also benefit from your dice (just as you can benefit from theirs). Then, with money in hand a player can build a landmark or a new building, ideally adding to the wealth of their city on future turns. The first player to construct all of their landmarks wins!
+
+https://github.com/nornagon/hf-mission-planner
+High Frontier 4 All
+
+https://boardgamegeek.com/boardgame/25669/qwirkle
+Qwirkle
+
+A game like Reigns might be cool said by Michael,
+https://play.google.com/store/apps/details?id=com.devolver.reigns
+
+Said by Reuven Podmazo
+https://www.westeros.org/
+
+# TODO research
+Search for RPG games open-source and idea research
+Search ideas for Board games, open-source research is done
+Search for story games that can be done using delayed approach
+Search for game development resources / companies. e.g. https://github.com/seiyria/awesome-boardgame-development
+Search for turn-based strategy games
+Search for great game winner dashboard, users will like to see the best players listing
+Search for turn based survival games
 
 # Games to build 
 1. Build Warmax like game for easiest game prototype
@@ -49,7 +91,7 @@ https://github.com/benjaminkomen/stratego-frontend
 
 Is it possible to implement this on Pylons system? Michael said it's not easy, consider doing it later when they support multiple players feature.
 
-4. Build a "Legends of Andor" like game
+4. Build a "Legends of Andor" like game, a kind of board game
 http://legendsofandor.com/
 “Legends of Andor” is a cooperative board game for 2–4 heroes.
 The idea is defeating the Andor region.
@@ -69,7 +111,22 @@ Verified: Text based poker will be easy to make
 6. Build a Galaxy Game
 
 https://planets.nu
-Galaxy Game where gamers can attack other planets etc.
+Galaxy Game where gamers can attack other planets etc and a player can purchase items to attack other planets or defend his/her planets.
+Cosmos is a universe and this game idea might be great.
+There can be a rule to calculate distance between planets.
+Idea for calculating distance between planets
+This is sample address
+cosmos1jh78j6lkla83uvukyd24s33wu83ug3e394h0d3
+This can be converted to 3D axis point
+(1jh78j6lkla83uv, ukyd24s33w, u83ug3e394h0d3)
+
+It's hard to attack a planet which is far away
+He can put safe items there
+Like diamond or something
+And to conquer other world, he needs to travel
+And the travel time could take 1-2 days
+If he left to attack other planet, that planet does not have enough power to defeat other attacks
+If possible, there can be a barrack to generate soldiers
 
 # Rust video game
 
@@ -334,30 +391,4 @@ Terminal-based game engine for Go, built on top of Termbox
 https://github.com/szib/no-cambio-tonight
 A board games event organiser application.
 
-# Reference games that might be good to build from scratch
-https://github.com/fuhrmanator/melee-sim-js
-Check for game idea "The Fantasy Trip Melee"
-https://boardgamegeek.com/boardgame/143884/machi-koro
-Machi Koro is a fast-paced game for 2-4 players. Each player wants to develop the city on their own terms in order to complete all of the landmarks under construction faster than their rivals. On their turn, each player rolls one or two dice. If the sum of the dice rolled matches the number of a building that a player owns, they get the effect of that building; in some cases opponents will also benefit from your dice (just as you can benefit from theirs). Then, with money in hand a player can build a landmark or a new building, ideally adding to the wealth of their city on future turns. The first player to construct all of their landmarks wins!
 
-https://github.com/nornagon/hf-mission-planner
-High Frontier 4 All
-
-https://boardgamegeek.com/boardgame/25669/qwirkle
-Qwirkle
-
-A game like Reigns might be cool said by Michael,
-https://play.google.com/store/apps/details?id=com.devolver.reigns
-
-Said by Reuven Podmazo
-https://www.westeros.org/
-
-
-# TODO research
-Search for RPG games open-source and idea research
-Search ideas for Board games, open-source research is done
-Search for story games that can be done using delayed approach
-Search for game development resources / companies. e.g. https://github.com/seiyria/awesome-boardgame-development
-Search for turn-based strategy games
-Search for great game winner dashboard, users will like to see the best players listing
-Search for turn based survival games
