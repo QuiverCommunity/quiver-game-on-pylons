@@ -29,9 +29,10 @@ Blockchain game ideas on Reddit
 https://www.reddit.com/r/gamedesign/comments/4u1i0f/looking_for_ideas_for_a_blockchainbased_game/
 
 # Reference games that might be good to build from scratch (It's not blockchain, it would be better to get idea from existing blockchainy games)
-https://github.com/fuhrmanator/melee-sim-js
-Check for game idea "The Fantasy Trip Melee"
-Verified: This is game where 3 characters participate in game and players can do fight, move, escape etc. Winners get bonus points.
+
+Idle heroes game play introduced by Chon, game dev
+https://www.youtube.com/watch?v=NgzAwcrcBU0
+It can fit the blockchain game idea as all fight is determined automatically.
 
 https://boardgamegeek.com/boardgame/143884/machi-koro
 Machi Koro is a fast-paced game for 2-4 players. Each player wants to develop the city on their own terms in order to complete all of the landmarks under construction faster than their rivals. On their turn, each player rolls one or two dice. If the sum of the dice rolled matches the number of a building that a player owns, they get the effect of that building; in some cases opponents will also benefit from your dice (just as you can benefit from theirs). Then, with money in hand a player can build a landmark or a new building, ideally adding to the wealth of their city on future turns. The first player to construct all of their landmarks wins!
@@ -45,8 +46,16 @@ Qwirkle
 A game like Reigns might be cool said by Michael,
 https://play.google.com/store/apps/details?id=com.devolver.reigns
 
+Michael's favorite ideas are probably Slay the Spire, Monster train, etc
+https://en.wikipedia.org/wiki/Slay_the_Spire
+https://monster-train.fandom.com/wiki/Monster_Train_Wiki
+
+https://github.com/fuhrmanator/melee-sim-js
+Check for game idea "The Fantasy Trip Melee"
+Verified: This is game where 3 characters participate in game and players can do fight, move, escape etc. Winners get bonus points.
+
 Said by Reuven Podmazo
-https://www.westeros.org/
+https://www.westeros.org
 
 # TODO research
 Search for RPG games open-source and idea research
