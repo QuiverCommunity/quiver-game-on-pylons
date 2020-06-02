@@ -28,7 +28,7 @@ This is real blockchainy game. That require understanding of blockchain.
 
 You are living in universe.
 Your planet does not have size and weight until you buy soil from world maker service.
-There are transporter itemrs which moves weapons to other planet.
+There are transporter items which moves weapons to other planet.
 There are weapons that are useful for attacking, defending planets.
 There are small guest planets that can make you grow by attacking it.
 There's a way to send mail from one planet to another but it takes time, moving in light speed.
@@ -46,17 +46,17 @@ There's visualization for the planets near you.
 This game does not end as gamers come to the cosmos world.
 Too many items management is not easy, you can merge that item into planet (not revertable or revertable).
 There are various items that
-- while fighint attackers and defenders are all destroyed.
+While fighint attackers and defenders are all destroyed.
 After fighting, not dead attackers, gold, defenders all go to winner section and it takes time to recover those guys.
 Defenders are x2 when defend and attackers are /2 when defence.
-- There are items that double your attack for several blocks. (time limit like double damage)
-- You can upgrade attack, defence items to increase attack value and add power to those items.
+There are items that double your attack for several blocks. (time limit like double damage)
+You can upgrade attack, defence items to increase attack value and add power to those items.
 You can select up to 10 ordered items list for fighting.
 It takes time to fight and when fight spend food.
-- Food price change according to purchase rate.
+Food price change according to purchase rate.
 You can do food trading or buy/sell items.
 You can do training for soldiers or inrease the number of soldiers. There's limitation xp growing by training and if attack and defence soldiers get experience point.
-- as long as you want to do need fight, you can do board game as it's real time game, not turn based.
+As long as you want to do need fight, you can do board game as it's real time game, not turn based.
 Planet have life time and you need to get lifetime increaser to keep it alive.
 Planet can be destroyed or keept it alive by conquerer's mind. If you not win, lost items/coins go to winner, some come back to you.
 Automatic systems can be built to help others within the kingdom.
